@@ -1,0 +1,1 @@
+from config.settings import MAIL_HOST, MAIL_FROM_ADDRESS, MAIL_PASSWORD, MAIL_BCC
